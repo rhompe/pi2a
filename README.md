@@ -47,20 +47,9 @@ Por favor lee el [CONTRIBUTING.md](https://github.com/tu/proyecto/wiki) para det
 
 Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
 
-## Autores ✒️
-
-* **Anderson Bastidas** - *Trabajo Inicial* - [AndersX87](https://github.com/Anders87x) - *Pagina Web* - [AndersX87](http://anderson-bastidas.com/)
 
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
-
----
-⌨️ con ❤️ por [Anders87X](https://github.com/Anders87x) 😊
